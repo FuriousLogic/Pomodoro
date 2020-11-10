@@ -13,8 +13,8 @@ The stares are:
 - Break over (green & yellow)
 
 ### Flow
-Neutral > button > Live pomodoro
-Live pomodoro > timer > Pomodoro completed
-Pomodoro completed > button > Short/Long break (3 short - 1 Long)
-Short/Long break > timer > Break over
-Break over > button > Neutral
+- Neutral > button > Live pomodoro
+- Live pomodoro > timer > Pomodoro completed
+- Pomodoro completed > button > Short/Long break (3 short - 1 Long)
+- Short/Long break > timer > Break over
+- Break over > button > Neutral
