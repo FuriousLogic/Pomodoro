@@ -52,7 +52,7 @@ void buttonPush(){
         }
         break;  
       case State::breakOver:
-        currentState = State::neutral;
+        currentState = State::pomodoro;
         break;  
       case State::error:
         currentState = State::neutral;
