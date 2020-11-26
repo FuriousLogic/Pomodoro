@@ -17,4 +17,5 @@ The stares are:
 - Live pomodoro > timer > Pomodoro completed
 - Pomodoro completed > button > Short/Long break (3 short - 1 Long)
 - Short/Long break > timer > Break over
+- Short/Long break > button > Live pomodoro
 - Break over > button > Live pomodoro

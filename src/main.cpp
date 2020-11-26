@@ -37,10 +37,10 @@ void buttonPush(){
         currentState = State::neutral;
         break;  
       case State::shortBreak:
-        currentState = State::neutral;
+        currentState = State::pomodoro;
         break;  
       case State::longBreak:
-        currentState = State::neutral;
+        currentState = State::pomodoro;
         break;  
       case State::pomodoroOver:
         if(shortBreakCount >= shortBreakMax){
